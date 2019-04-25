@@ -1,0 +1,10 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+      "target": "esNext",
+      "module": "commonjs",
+      "strict": true, 
+      "noImplicitAny": true
+    }
+  }
+  
